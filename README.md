@@ -99,7 +99,7 @@ To run the code in this repository, you need to have Python installed on your ma
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/Aizonati/python-learning-journey.git
+   git clone https://github.com/dhanraj-uchimahali/python-learning-journey.git
 2. Navigate to the folder you are interested in:
    ```bash
    cd python-learning-journey/Chapter-1
